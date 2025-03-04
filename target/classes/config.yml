@@ -1,0 +1,13 @@
+messages:
+  prevent_block_break: " &cNo se pueden romper bloques aquí."
+
+config:
+  welcome_message:
+    enabled: true
+    message:
+      - "&a&m                                       "
+      - ""
+      - "&fBienvenido &b&l%player% &fal servidor."
+      - "&fQue te diviertas. ;)"
+      - ""
+      - "&a&m                                       "

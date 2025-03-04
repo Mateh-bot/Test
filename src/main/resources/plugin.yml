@@ -1,0 +1,15 @@
+name: Test
+version: '1.0-SNAPSHOT'
+main: org.mateh.test.Main
+api-version: '1.21'
+commands:
+  test:
+    description: Comando principal del plugin Test
+    aliases:
+      - tst
+  experiencia:
+    description: Comando /experiencia del plugin Test
+  volar:
+    description: Comando /volar del plugin Test
+  menu:
+    description: Comando /menu del plugin Test
